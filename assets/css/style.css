@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.general{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX28142406.jpg");
+    border: solid;
+    font-family: "Arial Black";
+}
+.form{
+    display: flex;
+    flex-direction: column;
+
+}
